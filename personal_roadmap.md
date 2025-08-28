@@ -1,3 +1,9 @@
+
+AWS DevOps combines Amazon Web Services (AWS) cloud platform with DevOps principles and practices to accelerate software development and deployment. 
+
+
+
+
 # my java backend road map
 
 >**"The only way to learn a new programming language is by writing programs in it."**
